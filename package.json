@@ -1,6 +1,6 @@
 {
-  "name": "fake-rendering-context",
-  "version": "0.0.1",
+  "name": "fake-canvas",
+  "version": "1.0.0",
   "private": true,
   "description": "A native module implementing a subset of the RenderingContext2D API",
   "author": "Staś Małolepszy <stas@piesku.com>",
