@@ -2,7 +2,7 @@
   "name": "fake-canvas",
   "version": "1.0.0",
   "private": true,
-  "description": "A native module implementing a subset of the RenderingContext2D API",
+  "description": "A native module mocking a subset of the RenderingContext2D API",
   "author": "Staś Małolepszy <stas@piesku.com>",
   "license": "ISC",
   "main": "addon.js",
