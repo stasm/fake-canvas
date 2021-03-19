@@ -1,0 +1,42 @@
+AlignAfterOpenBracket: DontAlign
+#AlignOperands: DontAlign
+AllowShortFunctionsOnASingleLine: false
+AlwaysBreakBeforeMultilineStrings: true
+BraceWrapping:
+  AfterCaseLabel: false
+  AfterControlStatement: Never
+  AfterEnum: false
+  AfterFunction: true
+  AfterStruct: false
+  AfterUnion: false
+  BeforeElse: false
+  SplitEmptyFunction: false
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeBraces: Custom
+BreakBeforeTernaryOperators: false
+BreakStringLiterals: false
+ColumnLimit: 0
+ContinuationIndentWidth: 8
+Cpp11BracedListStyle: true
+IncludeBlocks: Preserve
+IndentCaseLabels: true
+IndentWidth: 4
+IndentWrappedFunctionNames: false
+Language: Cpp
+MaxEmptyLinesToKeep: 1
+PointerAlignment: Left
+SortIncludes: true
+SpaceAfterCStyleCast: false
+SpaceAfterLogicalNot: false
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeParens: ControlStatements
+SpaceBeforeSquareBrackets: false
+SpaceInEmptyBlock: false
+SpaceInEmptyParentheses: false
+SpacesInCStyleCastParentheses: false
+SpacesInConditionalStatement: false
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+TabWidth: 4
+UseCRLF: false
+UseTab: ForContinuationAndIndentation
